@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Hizkibira: Euskarazko sinonimoak ikasteko eguneroko jokoa.",
   "scripts": {
-    "dev": "echo 'Exekutatu index.html arakatzaile batean garapen zerbitzari batekin (adib. Live Server VSCode-n)'",
-    "build": "echo 'Ez da eraikuntza urrats konplexurik behar Vercel-entzat. Vercel-ek erroko fitxategi estatikoak zerbitzatuko ditu.'"
+    "dev": "echo 'Exekutatu index.html arakatzaile batean garapen zerbitzari batekin (adib. Live Server VSCode-n)'"
   },
   "keywords": [
     "react",
