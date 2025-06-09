@@ -1,0 +1,6 @@
+{
+  "name": "Hizkibira",
+  "description": "Hizkibira: Euskarazko sinonimoak ikasteko eguneroko jokoa. Aukeratu hitz bakoitzarentzat sinonimo zuzena hiru aukeren artean. Galderak aurrez definitutako zerrenda batetik hartzen dira.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
