@@ -4,7 +4,7 @@
   "description": "Hizkibira: Euskarazko sinonimoak ikasteko eguneroko jokoa.",
   "scripts": {
     "dev": "echo 'Exekutatu index.html arakatzaile batean garapen zerbitzari batekin (adib. Live Server VSCode-n)'",
-    "build": "echo 'Eraikuntza urratsa ez da beharrezkoa esbuild/CDN erabiliz gero.'"
+    "build": "rm -rf public && mkdir -p public && rsync -a --exclude node_modules --exclude .git --exclude .vscode --exclude public ./ public/"
   },
   "keywords": [
     "react",
